@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert ab8f2c9 [origin/bug-fix-revert] Add command to get parent repo clone URL
+  bug-fix-typo   ab8f2c9 Add command to get parent repo clone URL
+  main           ab8f2c9 [origin/main] Add command to get parent repo clone URL
